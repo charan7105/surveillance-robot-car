@@ -1,6 +1,5 @@
 # Surveillance Robot Car 🚗🎥
-
-![Surveillance Robot Car](robot_car.jpg)
+![MasterHead](https://cdn.discordapp.com/attachments/782838733133053994/1134424748672168017/image.png)
 
 
 **Introduction** 🌟
@@ -65,13 +64,13 @@ To start your espionage adventure, follow these simple steps:
 
 **Important Notes** 📝
 
-🔋 Keep an eye on the battery level to ensure uninterrupted missions. Charge it regularly for endless spy fun! ⚡
+🔋 Keep an eye on the battery level to ensure uninterrupted missions. Charge it regularly for endless spy fun! 
 
-🌌 Avoid using the robot car for intergalactic travel. While it's advanced, it's not quite ready for space missions yet! 🚀
+🌌 Avoid using the robot car for intergalactic travel. While it's advanced, it's not quite ready for space missions yet! 
 
 
 **Contributing** 🤝
-We welcome contributions from fellow spies and tech enthusiasts! If you have any cool ideas or improvements, feel free to create a pull request. Let's make this surveillance robot even more awesome together! 👍
+We welcome contributions from fellow spies and tech enthusiasts! If you have any cool ideas or improvements, feel free to create a pull request. Let's make this surveillance robot even more awesome together! 
 
 
 **Bug Reports** 🐞
@@ -79,21 +78,21 @@ If you encounter any bugs during your top-secret missions, don't worry! Just ope
 
 
 **Disclaimer** ⚠️
-The Surveillance Robot Car is intended for entertainment and hobby purposes only. Any illegal or unauthorized use is strictly prohibited. We will not be held responsible for any secret agent mishaps! 😄
+The Surveillance Robot Car is intended for entertainment and hobby purposes only. Any illegal or unauthorized use is strictly prohibited. We will not be held responsible for any secret agent mishaps! 
 
 
 **Acknowledgements** 🙏
-Special thanks to the amazing open-source community for their contributions and inspiration. 🎉
+Special thanks to the amazing open-source community for their contributions and inspiration. 
 
 
 **License** 📜
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it, but please keep the credits intact. Happy spying! 🕵️‍♂️🔍
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it, but please keep the credits intact. Happy spying! 
 
 
 **Let the Adventures Begin!** 🚀
-So, what are you waiting for? Embark on thrilling spy missions and explore the world from the perspective of a Surveillance Robot Car! 🕵️‍♂️🚗
+So, what are you waiting for? Embark on thrilling spy missions and explore the world from the perspective of a Surveillance Robot Car!
 
 
 Enjoy the fun and excitement! 😄
 
-![Surveillance Robot Car](happy_robot.jpg)
+![MasterHead](https://cdn.discordapp.com/attachments/782838733133053994/1134424920886091837/image.png).
